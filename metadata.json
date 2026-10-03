@@ -1,0 +1,6 @@
+{
+  "name": "Cadran Agent",
+  "description": "Assistant personnel desktop et moteur d'automatisation d'agents IA avec contrôle transparent, validation humaine et respect des données.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
